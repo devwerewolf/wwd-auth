@@ -1,0 +1,4 @@
+cron:
+- description: "keep the place warm"
+  url: /fireplace
+  schedule: every 1 minutes
